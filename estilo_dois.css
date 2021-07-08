@@ -1,0 +1,14 @@
+body {
+    padding: 50px;
+    background-image:url("bg-greem.jpg");
+    }
+    
+    .card {
+    box-shadow: 12px 12px 8px 4px rgba(100, 100, 100, 0.4); 
+    position: relative;
+    top: -4%;
+    left: 50%;
+    right: 50%;
+    transform: translate(5%,5%);
+    
+    }
